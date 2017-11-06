@@ -1,0 +1,6 @@
+C:\working\tonyazen\HackerRank\Test1\Test1\bin\Debug\Test1.exe.config
+C:\working\tonyazen\HackerRank\Test1\Test1\bin\Debug\Test1.exe
+C:\working\tonyazen\HackerRank\Test1\Test1\bin\Debug\Test1.pdb
+C:\working\tonyazen\HackerRank\Test1\Test1\obj\Debug\Sum.csprojResolveAssemblyReference.cache
+C:\working\tonyazen\HackerRank\Test1\Test1\obj\Debug\Test1.exe
+C:\working\tonyazen\HackerRank\Test1\Test1\obj\Debug\Test1.pdb

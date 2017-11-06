@@ -1,0 +1,5 @@
+C:\working\tonyazen\HackerRank\Test1\FinalPrice\bin\Debug\FinalPrice.exe.config
+C:\working\tonyazen\HackerRank\Test1\FinalPrice\bin\Debug\FinalPrice.exe
+C:\working\tonyazen\HackerRank\Test1\FinalPrice\bin\Debug\FinalPrice.pdb
+C:\working\tonyazen\HackerRank\Test1\FinalPrice\obj\Debug\FinalPrice.exe
+C:\working\tonyazen\HackerRank\Test1\FinalPrice\obj\Debug\FinalPrice.pdb

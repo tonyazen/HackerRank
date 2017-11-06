@@ -1,0 +1,6 @@
+C:\working\tonyazen\HackerRank\Test1\FindK\bin\Debug\FindK.exe.config
+C:\working\tonyazen\HackerRank\Test1\FindK\bin\Debug\FindK.exe
+C:\working\tonyazen\HackerRank\Test1\FindK\bin\Debug\FindK.pdb
+C:\working\tonyazen\HackerRank\Test1\FindK\obj\Debug\FindK.exe
+C:\working\tonyazen\HackerRank\Test1\FindK\obj\Debug\FindK.pdb
+C:\working\tonyazen\HackerRank\Test1\FindK\obj\Debug\FindK.csprojResolveAssemblyReference.cache

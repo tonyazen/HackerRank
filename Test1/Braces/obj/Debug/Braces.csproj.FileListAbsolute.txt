@@ -1,0 +1,6 @@
+C:\working\tonyazen\HackerRank\Test1\Braces\bin\Debug\Braces.exe.config
+C:\working\tonyazen\HackerRank\Test1\Braces\bin\Debug\Braces.exe
+C:\working\tonyazen\HackerRank\Test1\Braces\bin\Debug\Braces.pdb
+C:\working\tonyazen\HackerRank\Test1\Braces\obj\Debug\Braces.csprojResolveAssemblyReference.cache
+C:\working\tonyazen\HackerRank\Test1\Braces\obj\Debug\Braces.exe
+C:\working\tonyazen\HackerRank\Test1\Braces\obj\Debug\Braces.pdb

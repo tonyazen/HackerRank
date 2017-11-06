@@ -1,0 +1,5 @@
+C:\working\tonyazen\HackerRank\Test1\LeftRotation\bin\Debug\LeftRotation.exe.config
+C:\working\tonyazen\HackerRank\Test1\LeftRotation\bin\Debug\LeftRotation.exe
+C:\working\tonyazen\HackerRank\Test1\LeftRotation\bin\Debug\LeftRotation.pdb
+C:\working\tonyazen\HackerRank\Test1\LeftRotation\obj\Debug\LeftRotation.exe
+C:\working\tonyazen\HackerRank\Test1\LeftRotation\obj\Debug\LeftRotation.pdb
